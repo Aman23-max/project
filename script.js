@@ -2,4 +2,6 @@ function sayHello() {
   console.log("Hello World");
 }
 
-//merge on remote repo
+function sum(a, b) {
+  console.log(a + b);
+}
